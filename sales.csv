@@ -1,0 +1,51 @@
+sale_id,sale_date,product,category,quantity,price
+1,2026-09-01,Amoxicillin,Antibiotic,10,25000
+2,2026-09-01,Paracetamol,Painkiller,20,8000
+3,2026-09-02,Amoxicillin,Antibiotic,5,25000
+4,2026-09-02,Ibuprofen,Painkiller,15,12000
+5,2026-09-03,Vitamin C,Vitamins,30,7000
+6,2026-09-03,Omeprazole,Gastro,12,18000
+7,2026-09-04,Paracetamol,Painkiller,25,8000
+8,2026-09-04,Amoxicillin,Antibiotic,8,25000
+9,2026-09-05,Ibuprofen,Painkiller,18,12000
+10,2026-09-05,Vitamin C,Vitamins,40,7000
+11,2026-09-06,Omeprazole,Gastro,10,18000
+12,2026-09-06,Amoxicillin,Antibiotic,7,25000
+13,2026-09-07,Paracetamol,Painkiller,35,8000
+14,2026-09-07,Vitamin C,Vitamins,25,7000
+15,2026-09-08,Ibuprofen,Painkiller,20,12000
+16,2026-09-08,Omeprazole,Gastro,14,18000
+17,2026-09-09,Amoxicillin,Antibiotic,11,25000
+18,2026-09-09,Paracetamol,Painkiller,30,8000
+19,2026-09-10,Vitamin C,Vitamins,50,7000
+20,2026-09-10,Ibuprofen,Painkiller,16,12000
+21,2026-09-11,Omeprazole,Gastro,9,18000
+22,2026-09-11,Amoxicillin,Antibiotic,6,25000
+23,2026-09-12,Paracetamol,Painkiller,28,8000
+24,2026-09-12,Vitamin C,Vitamins,35,7000
+25,2026-09-13,Ibuprofen,Painkiller,22,12000
+26,2026-09-13,Omeprazole,Gastro,13,18000
+27,2026-09-14,Amoxicillin,Antibiotic,9,25000
+28,2026-09-14,Paracetamol,Painkiller,24,8000
+29,2026-09-15,Vitamin C,Vitamins,45,7000
+30,2026-09-15,Ibuprofen,Painkiller,17,12000
+31,2026-09-16,Omeprazole,Gastro,15,18000
+32,2026-09-16,Amoxicillin,Antibiotic,12,25000
+33,2026-09-17,Paracetamol,Painkiller,32,8000
+34,2026-09-17,Vitamin C,Vitamins,38,7000
+35,2026-09-18,Ibuprofen,Painkiller,19,12000
+36,2026-09-18,Omeprazole,Gastro,11,18000
+37,2026-09-19,Amoxicillin,Antibiotic,10,25000
+38,2026-09-19,Paracetamol,Painkiller,27,8000
+39,2026-09-20,Vitamin C,Vitamins,42,7000
+40,2026-09-20,Ibuprofen,Painkiller,21,12000
+41,2026-09-21,Omeprazole,Gastro,8,18000
+42,2026-09-21,Amoxicillin,Antibiotic,13,25000
+43,2026-09-22,Paracetamol,Painkiller,29,8000
+44,2026-09-22,Vitamin C,Vitamins,33,7000
+45,2026-09-23,Ibuprofen,Painkiller,23,12000
+46,2026-09-23,Omeprazole,Gastro,16,18000
+47,2026-09-24,Amoxicillin,Antibiotic,7,25000
+48,2026-09-24,Paracetamol,Painkiller,31,8000
+49,2026-09-25,Vitamin C,Vitamins,47,7000
+50,2026-09-25,Ibuprofen,Painkiller,18,12000
